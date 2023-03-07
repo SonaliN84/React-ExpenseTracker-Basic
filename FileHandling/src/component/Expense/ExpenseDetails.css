@@ -1,0 +1,15 @@
+.details{
+    display: flex;
+    justify-content: space-between;
+    width:40vw;
+    margin-left: 70px;
+    flex-wrap: wrap;
+    /* max-width: 50%; */
+}
+.a{
+    display:flex;
+    align-content: flex-start;
+    width:8vw;
+    /* border:1px solid gray; */
+    color:white;
+}
