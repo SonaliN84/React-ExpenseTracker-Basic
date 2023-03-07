@@ -1,0 +1,14 @@
+.details{
+    display: flex;
+    justify-content: space-between;
+    width:50vw;
+    margin-left: 70px;
+    flex-wrap: wrap;
+}
+.a{
+    display:flex;
+    align-content: flex-start;
+    width:8vw;
+    /* border:1px solid gray; */
+    
+}
