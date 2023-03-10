@@ -1,0 +1,14 @@
+li{
+    list-style: none;
+    border: 1px solid purple;
+    background-color: purple;
+    padding:10px;
+    margin:20px;
+    border-radius: 10px;
+    color:white;
+    text-align: center;
+    font-size: 1.2rem;
+}
+/* ul{
+    margin:0;
+} */

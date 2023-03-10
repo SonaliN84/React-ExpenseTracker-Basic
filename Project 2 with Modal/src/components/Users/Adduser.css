@@ -1,0 +1,19 @@
+.container{
+    width:35rem;
+    max-width: 90%;
+    
+}
+
+form{
+    border:1px solid rgb(229, 225, 225);
+    border-radius:30px;
+    /* padding:30px; */
+    margin:20px;
+    line-height:1rem;
+    background-color:white;
+}
+#button{
+    background-color: purple;
+    color: aliceblue;
+    border:1px solid purple;
+}
